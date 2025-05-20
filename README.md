@@ -4,7 +4,7 @@ I'm a full-stack developer, hacker at heart and a curious mind who's always buil
 
 ### 🔧 Current Tech Stack
 
-### ⭐ Frontend 
+### ⭐ Frontend & Backend
 [![Fullstack](https://skillicons.dev/icons?i=react,nodejs,mongodb,css,tailwind,postman)](https://skillicons.dev)
 
 ### ⭐ Devops
